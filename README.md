@@ -1,4 +1,4 @@
 # tradefighter
 
 
-##TradeFighter Javascript based Game 
+## TradeFighter Javascript based Game
