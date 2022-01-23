@@ -1,4 +1,3 @@
-# tradefighter
+# Javascript Game
 
-
-## TradeFighter Javascript based Game
+## Trade Tank Fighter Javascript based Game
